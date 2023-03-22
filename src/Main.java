@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Extra line added in local and pushed");
         System.out.println("added to update project");
         System.out.println("branch1 added");
+        System.out.println("Branch 2 added");
     }
 }
