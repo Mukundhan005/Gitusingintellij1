@@ -3,6 +3,5 @@ public class Main {
         System.out.println("Hello world!!!!!!!!!!!!!!!!!!!!");
         System.out.println("Extra line added in github and it will be pulled from github");
         System.out.println("Extra line added in local and pushed");
-        System.out.println("branch1 added");
     }
 }
